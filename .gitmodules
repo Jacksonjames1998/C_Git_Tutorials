@@ -1,0 +1,3 @@
+[submodule "Parallel_test_repo"]
+	path = Parallel_test_repo
+	url = git@github.com:Jacksonjames1998/Parallel_test_repo.git
